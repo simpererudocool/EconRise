@@ -1,0 +1,17 @@
+{
+  "license": "Public domain",
+  "licenseUrl": "https://www.naturalearthdata.com/about/terms-of-use/",
+  "processing": "scripts/build-map.mjs",
+  "sources": [
+    {
+      "localFile": "ne_10m_admin_0_countries.geo.json",
+      "sha256": "239eec57ac17f100a11e2536cffc56752c318b50ae765b0918ff7aab4ce8f255",
+      "upstreamUrl": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/v5.1.2/geojson/ne_10m_admin_0_countries.geojson"
+    },
+    {
+      "localFile": "ne_10m_admin_1_states_provinces.geo.json",
+      "sha256": "22d0e3ad85eb3e27f17cabf8ba2d50e554fbc27a87796ff891d958185da62fb5",
+      "upstreamUrl": "https://raw.githubusercontent.com/nvkelso/natural-earth-vector/v5.1.2/geojson/ne_10m_admin_1_states_provinces.geojson"
+    }
+  ]
+}
